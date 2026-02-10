@@ -168,24 +168,24 @@ Speaker notes go here.
 
 :::: {.columns}
 
-::: {.column width="40%"}
+::: {.column width="35%"}
 
-::: {#fig-template}
 ![](figures/ezgif-4fa230460975b3.gif){fig-align=center}
 
-IsaacSim IDE with robot simple key control
-:::
+
+![](figures/ezgif-Isaac-Lift-Cube-Franka-v0.gif){fig-align=center}
+
 
 
 :::
 
 ::: {.column width="60%"}
 
-::: {#fig-template}
-![](figures/ezgif-Isaac-Lift-Cube-Franka-v0.gif){fig-align=center}
 
-Franka Lift Cube (RL Training)
-:::
+![](figures/ezgif-train_Isaac-Humanoid-v0_iter_2000.gif){fig-align=center}
+
+
+![](figures/ezgif-play_Isaac-Humanoid-v0_1000env.gif){fig-align=center}
 
 
 :::
@@ -193,7 +193,11 @@ Franka Lift Cube (RL Training)
 ::::
 
 ::: {.notes}
-Speaker notes go here.
+IsaacSim IDE with robot simple key control
+Franka Lift Cube (RL Training)
+
+
+
 :::
 
 
@@ -264,6 +268,16 @@ Participants of our 2025 event, [details here](https://www.hamlynsymposium.org/e
 :::
 
 ::::
+
+
+::: {style="font-size: 50%;"}
+
+**Open@UCL Blog**, Sep 2025, _Shaping Tomorrow’s Healthcare: Unlocking the Power of Open-Source AI and Robotics_
+[link](https://blogs.ucl.ac.uk/open-access/2025/09/17/unlocking-the-power-of-open-source-ai-and-robotics/).
+
+:::
+
+
 
 ::: {.notes}
 Speaker notes go here.
