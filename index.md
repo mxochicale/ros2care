@@ -307,6 +307,8 @@ Speaker notes go here.
 
 ## Key Takeaways & Why This Matters
 
+<div style="font-size: 70%;">
+
 - Lowering the Barrier to Advanced Robotics at Scale
   - <div style="font-size: 60%;">
 
@@ -314,6 +316,11 @@ Speaker notes go here.
     training and research using real sensors, networks, and constraints.
 
     </div>
+
+</div>
+
+<div style="font-size: 70%;">
+
 - A Proven, Scalable Model for Collaboration
   - <div style="font-size: 60%;">
 
@@ -322,6 +329,11 @@ Speaker notes go here.
     repeatable.
 
     </div>
+
+</div>
+
+<div style="font-size: 70%;">
+
 - A Testbed for Research, Training, and Innovation
   - <div style="font-size: 60%;">
 
@@ -329,6 +341,11 @@ Speaker notes go here.
     the rapid development of new robotics workflows.
 
     </div>
+
+</div>
+
+<div style="font-size: 70%;">
+
 - Call to Action
   - <div style="font-size: 60%;">
 
@@ -337,6 +354,8 @@ Speaker notes go here.
     models beyond a single institution.
 
     </div>
+
+</div>
 
 <div class="notes">
 
