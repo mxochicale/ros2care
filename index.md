@@ -160,28 +160,22 @@ Speaker notes go here.
 
 <div class="columns">
 
-<div class="column" width="40%">
-
-<div id="fig-template">
+<div class="column" width="35%">
 
 <img src="figures/ezgif-4fa230460975b3.gif" data-fig-align="center" />
 
-Figure 4: IsaacSim IDE with robot simple key control
-
-</div>
+<img src="figures/ezgif-Isaac-Lift-Cube-Franka-v0.gif"
+data-fig-align="center" />
 
 </div>
 
 <div class="column" width="60%">
 
-<div id="fig-template">
-
-<img src="figures/ezgif-Isaac-Lift-Cube-Franka-v0.gif"
+<img src="figures/ezgif-train_Isaac-Humanoid-v0_iter_2000.gif"
 data-fig-align="center" />
 
-Figure 5: Franka Lift Cube (RL Training)
-
-</div>
+<img src="figures/ezgif-play_Isaac-Humanoid-v0_1000env.gif"
+data-fig-align="center" />
 
 </div>
 
@@ -189,7 +183,8 @@ Figure 5: Franka Lift Cube (RL Training)
 
 <div class="notes">
 
-Speaker notes go here.
+IsaacSim IDE with robot simple key control Franka Lift Cube (RL
+Training)
 
 </div>
 
@@ -212,7 +207,7 @@ Notes goes here
 <img src="figures/multimodal-sensing-liu2025.svg"
 data-fig-align="center" />
 
-Figure 6: Fig 11 from **Liu et al. 2025** *Neural Brain: A
+Figure 4: Fig 11 from **Liu et al. 2025** *Neural Brain: A
 Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
 2505.07634](https://arxiv.org/abs/2505.07634)
 
@@ -235,7 +230,7 @@ workflow.
 <img src="figures/mechanisms-embodiedAI-liu2025.svg"
 data-fig-align="center" />
 
-Figure 7: Fig 15 from **Liu et al. 2025** *Neural Brain: A
+Figure 5: Fig 15 from **Liu et al. 2025** *Neural Brain: A
 Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
 2505.07634](https://arxiv.org/abs/2505.07634)
 
@@ -261,12 +256,20 @@ Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
 
 <img src="figures/hamlyn-workshop-2025.png" data-fig-align="center" />
 
-Figure 8: Participants of our 2025 event, [details
+Figure 6: Participants of our 2025 event, [details
 here](https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source-software-in-surgical-biomedical-and-ai-technologies/)
 
 </div>
 
 </div>
+
+</div>
+
+<div style="font-size: 50%;">
+
+**Open@UCL Blog**, Sep 2025, *Shaping Tomorrow’s Healthcare: Unlocking
+the Power of Open-Source AI and Robotics*
+[link](https://blogs.ucl.ac.uk/open-access/2025/09/17/unlocking-the-power-of-open-source-ai-and-robotics/).
 
 </div>
 
