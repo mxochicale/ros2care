@@ -274,7 +274,7 @@ Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
 
 </div>
 
-<div class="column" width="70%">
+<div class="column" width="65%">
 
 <div id="fig-template">
 
@@ -305,9 +305,45 @@ Speaker notes go here.
 
 <!-- *********************** NEW SLIDE *********************** -->
 
+## Future events: Hacking cyber-physical systems in real-time
+
+<div class="columns">
+
+<div class="column" style="width: 35%; font-size: 80%;">
+
+- Hackathon 1: Preliminary Small Hackathon for Feasibility and Idea
+  Generation. **Monday, 2 March 2026 at UCL Here East (G40).**
+- Hackathon 2: Larger Hackathon to Explore Ideas and Create Projects.
+  **Q3-2026**
+
+</div>
+
+<div class="column" width="65%">
+
+<div id="fig-template">
+
+<img src="figures/cyber-physical-hackathon-network.svg"
+data-fig-align="center" />
+
+Figure 11: <https://github.com/UCL-CyberPhysicalSystems/hackathon-01>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="notes">
+
+Speaker notes go here.
+
+</div>
+
+<!-- *********************** NEW SLIDE *********************** -->
+
 ## Key Takeaways & Why This Matters
 
-<div style="font-size: 70%;">
+<div style="font-size: 80%;">
 
 - Lowering the Barrier to Advanced Robotics at Scale
   - <div style="font-size: 60%;">
@@ -319,7 +355,7 @@ Speaker notes go here.
 
 </div>
 
-<div style="font-size: 70%;">
+<div style="font-size: 80%;">
 
 - A Proven, Scalable Model for Collaboration
   - <div style="font-size: 60%;">
@@ -332,7 +368,7 @@ Speaker notes go here.
 
 </div>
 
-<div style="font-size: 70%;">
+<div style="font-size: 80%;">
 
 - A Testbed for Research, Training, and Innovation
   - <div style="font-size: 60%;">
@@ -344,7 +380,7 @@ Speaker notes go here.
 
 </div>
 
-<div style="font-size: 70%;">
+<div style="font-size: 80%;">
 
 - Call to Action
   - <div style="font-size: 60%;">
