@@ -160,31 +160,55 @@ Speaker notes go here.
 
 <div class="columns">
 
-<div class="column" width="35%">
+<div class="column" style="width: 35%; font-size: 30%;">
+
+<div id="fig-template">
 
 <img src="figures/ezgif-4fa230460975b3.gif" data-fig-align="center" />
+
+Figure 4: IsaacSim IDE with robot simple key control
+
+</div>
+
+<div id="fig-template">
 
 <img src="figures/ezgif-Isaac-Lift-Cube-Franka-v0.gif"
 data-fig-align="center" />
 
+Figure 5: Franka Lift Cube (RL Training)
+
 </div>
 
-<div class="column" width="60%">
+</div>
+
+<div class="column" style="width: 60%; font-size: 30%;">
+
+<div id="fig-template">
 
 <img src="figures/ezgif-train_Isaac-Humanoid-v0_iter_2000.gif"
 data-fig-align="center" />
 
+Figure 6: ./isaaclab.sh -p
+scripts/reinforcement_learning/rsl_rl/train.py –task Isaac-Humanoid-v0
+–num_envs 128 –max_iterations 2000 –headless
+
+</div>
+
+<div id="fig-template">
+
 <img src="figures/ezgif-play_Isaac-Humanoid-v0_1000env.gif"
 data-fig-align="center" />
+
+Figure 7: ./isaaclab.sh -p scripts/reinforcement_learning/rsl_rl/play.py
+–task Isaac-Humanoid-v0 –num_envs 1000 –checkpoint logs/rsl_rl/humanoid
+
+</div>
 
 </div>
 
 </div>
 
 <div class="notes">
-
-IsaacSim IDE with robot simple key control Franka Lift Cube (RL
-Training)
 
 </div>
 
@@ -207,7 +231,7 @@ Notes goes here
 <img src="figures/multimodal-sensing-liu2025.svg"
 data-fig-align="center" />
 
-Figure 4: Fig 11 from **Liu et al. 2025** *Neural Brain: A
+Figure 8: Fig 11 from **Liu et al. 2025** *Neural Brain: A
 Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
 2505.07634](https://arxiv.org/abs/2505.07634)
 
@@ -230,7 +254,7 @@ workflow.
 <img src="figures/mechanisms-embodiedAI-liu2025.svg"
 data-fig-align="center" />
 
-Figure 5: Fig 15 from **Liu et al. 2025** *Neural Brain: A
+Figure 9: Fig 15 from **Liu et al. 2025** *Neural Brain: A
 Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
 2505.07634](https://arxiv.org/abs/2505.07634)
 
@@ -256,7 +280,7 @@ Neuroscience-inspired Framework for Embodied Agents* [arXiv preprint:
 
 <img src="figures/hamlyn-workshop-2025.png" data-fig-align="center" />
 
-Figure 6: Participants of our 2025 event, [details
+Figure 10: Participants of our 2025 event, [details
 here](https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source-software-in-surgical-biomedical-and-ai-technologies/)
 
 </div>
