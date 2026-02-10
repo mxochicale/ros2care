@@ -168,24 +168,51 @@ Speaker notes go here.
 
 :::: {.columns}
 
-::: {.column width="35%"}
+::: {.column style="width: 35%; font-size: 30%;"}
+
+
+
+::: {#fig-template}
 
 ![](figures/ezgif-4fa230460975b3.gif){fig-align=center}
 
+IsaacSim IDE with robot simple key control
+:::
+
+
+::: {#fig-template}
 
 ![](figures/ezgif-Isaac-Lift-Cube-Franka-v0.gif){fig-align=center}
 
+Franka Lift Cube (RL Training)
+:::
 
 
 :::
 
-::: {.column width="60%"}
 
 
+
+
+
+
+
+::: {.column style="width: 60%; font-size: 30%;"}
+
+
+::: {#fig-template}
 ![](figures/ezgif-train_Isaac-Humanoid-v0_iter_2000.gif){fig-align=center}
 
+./isaaclab.sh -p scripts/reinforcement_learning/rsl_rl/train.py --task Isaac-Humanoid-v0 --num_envs 128 --max_iterations 2000 --headless
 
+:::
+
+
+::: {#fig-template}
 ![](figures/ezgif-play_Isaac-Humanoid-v0_1000env.gif){fig-align=center}
+
+./isaaclab.sh -p scripts/reinforcement_learning/rsl_rl/play.py --task Isaac-Humanoid-v0 --num_envs 1000 --checkpoint logs/rsl_rl/humanoid
+:::
 
 
 :::
@@ -193,8 +220,6 @@ Speaker notes go here.
 ::::
 
 ::: {.notes}
-IsaacSim IDE with robot simple key control
-Franka Lift Cube (RL Training)
 
 
 
