@@ -289,7 +289,7 @@ here](https://www.hamlynsymposium.org/events/healing-through-collaboration-open-
 
 </div>
 
-<div style="font-size: 50%;">
+<div style="font-size: 30%;">
 
 **Open@UCL Blog**, Sep 2025, *Shaping Tomorrow’s Healthcare: Unlocking
 the Power of Open-Source AI and Robotics*
@@ -338,15 +338,6 @@ Speaker notes go here.
 
     </div>
 
-<div style="font-size: 40%;">
-
-**Sciortino et al. 2017** in Computers in Biology and Medicine
-https://doi.org/10.1016/j.compbiomed.2017.01.008;  
-**He et al. 2021** in Front. Med.
-https://doi.org/10.3389/fmed.2021.729978
-
-</div>
-
 <div class="notes">
 
 1.  Lowering the Barrier to Advanced Robotics
@@ -358,6 +349,11 @@ https://doi.org/10.3389/fmed.2021.729978
 7.  Cost-Aware, Sustainable Infrastructure Design
 8.  A Testbed for Research, Training, and Innovation
 9.  Clear Opportunities for Collaboration & Funding
+
+**Sciortino et al. 2017** in Computers in Biology and Medicine
+https://doi.org/10.1016/j.compbiomed.2017.01.008;  
+**He et al. 2021** in Front. Med.
+https://doi.org/10.3389/fmed.2021.729978
 
 </div>
 
