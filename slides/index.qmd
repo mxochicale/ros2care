@@ -281,7 +281,7 @@ Fig 15 from **Liu et al. 2025** _Neural Brain: A Neuroscience-inspired Framework
 
 :::
 
-::: {.column width="70%"}
+::: {.column width="65%"}
 
 ::: {#fig-template}
 
@@ -311,18 +311,58 @@ Speaker notes go here.
 
 
 
+<!-- *********************** NEW SLIDE *********************** -->
+## Future events: Hacking cyber-physical systems in real-time
+:::: {.columns}
+
+::: {.column style="width: 35%; font-size: 80%;"}
+
+* Hackathon 1: Preliminary Small Hackathon for Feasibility and Idea Generation. **Monday, 2 March 2026 at UCL Here East (G40).**
+* Hackathon 2: Larger Hackathon to Explore Ideas and Create Projects. **Q3-2026**
+
+:::
+
+::: {.column width="65%"}
+
+::: {#fig-template}
+
+
+![](figures/cyber-physical-hackathon-network.svg){fig-align=center}
+
+[https://github.com/UCL-CyberPhysicalSystems/hackathon-01](https://github.com/UCL-CyberPhysicalSystems/hackathon-01)
+
+:::
+
+:::
+
+::::
+
+
+
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+
+
+
+
+
+
+
 
 <!-- *********************** NEW SLIDE *********************** -->
 ## Key Takeaways & Why This Matters
 
-::: {style="font-size: 70%;"}
+::: {style="font-size: 80%;"}
 * Lowering the Barrier to Advanced Robotics at Scale
     * ::: {style="font-size: 60%;"}
 Cloud-ready, cost-aware infrastructure enables hands-on robotics training and 
 research using real sensors, networks, and constraints.
 :::
 
-::: {style="font-size: 70%;"}
+::: {style="font-size: 80%;"}
 * A Proven, Scalable Model for Collaboration   
     * ::: {style="font-size: 60%;"}
 High-performance networking and shared platforms make cross-department 
@@ -330,7 +370,7 @@ and cross-institution collaboration practical and repeatable.
 :::
 
 
-::: {style="font-size: 70%;"}
+::: {style="font-size: 80%;"}
 * A Testbed for Research, Training, and Innovation
     * ::: {style="font-size: 60%;"}
 The testbed supports skills transfer, research experimentation, and 
@@ -338,7 +378,7 @@ the rapid development of new robotics workflows.
 :::
 
 
-::: {style="font-size: 70%;"}
+::: {style="font-size: 80%;"}
 * Call to Action  
     * ::: {style="font-size: 60%;"}
 Partner with us to extend the testbed, through collaboration and funding to scale training, 
